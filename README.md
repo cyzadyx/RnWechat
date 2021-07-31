@@ -7,8 +7,7 @@
 
 # 安装教程
 
-cd ./RnWechat
-yarn install
+yarn install <br/>
 npm run android
 
 # 界面效果
