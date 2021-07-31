@@ -9,7 +9,7 @@
 
 cd ./RnWechat
 yarn install
-yarn add android
+npm run android
 
 # 界面效果
 ![1e0eeb15bb3a727e5621f792acfbf07](https://user-images.githubusercontent.com/38202126/127726324-e200769b-46df-493f-b476-8be36f12924f.png)
