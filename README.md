@@ -12,7 +12,6 @@ npm run android
 
 # 界面效果
 ![1e0eeb15bb3a727e5621f792acfbf07](https://user-images.githubusercontent.com/38202126/127726324-e200769b-46df-493f-b476-8be36f12924f.png)
-![3ca7a4e6a2d79ea1ff7c676b92e6196](https://user-images.githubusercontent.com/38202126/127726334-67d11ed2-61f8-4894-9cfb-6986a5c02ee1.png)
 
 ![6c952e2b7d70eda976a3b69d2ba1b45](https://user-images.githubusercontent.com/38202126/127726338-009be2b0-e67e-4f5e-9773-e282dc471112.png)
 ![861140d02a73719f60f99f98fe66d31](https://user-images.githubusercontent.com/38202126/127726340-0336ffae-e218-4661-93fd-d3890be285b2.png)
